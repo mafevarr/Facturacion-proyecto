@@ -1,0 +1,11 @@
+# Archivos compilados de Java
+*.class
+*.jar
+
+# Archivos de IDEs
+.idea/
+*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
